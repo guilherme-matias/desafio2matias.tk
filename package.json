@@ -1,0 +1,14 @@
+{
+  "name": "desafio2matias",
+  "version": "1.0.0",
+  "description": "Site simples para desafio2matias",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Guilherme",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
